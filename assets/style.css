@@ -1,0 +1,24 @@
+/* Main body styling for all pages */
+
+body {
+  font-family: 'Raleway', sans-serif;
+
+  
+}
+
+html {
+  /* Positioning */
+  position: relative;
+
+  /* Box-model */
+  min-height: 100%;
+}
+
+/* Main page */
+
+#my-image {
+  float: left;
+
+
+  width: 230px;
+}
